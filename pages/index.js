@@ -46,7 +46,7 @@ export const getStaticProps = async () => {
         title: meetup.title,
       })),
     },
-    revalidate: 10,
+    revalidate: 1,
   };
 };
 
