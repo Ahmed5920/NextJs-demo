@@ -7,7 +7,7 @@ const HomePage = (props) => {
   return (
     <Fragment>
       <Head>
-        <title>React Meetups</title>
+        <title>Meetups</title>
         <meta
           name="description"
           content="Browser a list of active React Meetups"
